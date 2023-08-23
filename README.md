@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dkarop
+- 👀 I’m interested in: Network Engineering and Web Scraping!
+- 🌱 I’m currently learning: Automation
+- 📫 How to reach me: dkaropoulos@gmail.com
